@@ -1,0 +1,31 @@
+JSON Expected
+
+{
+    "datetime": ...,
+    "dataByStation": {
+        "TLA": {
+            "longitud": ... ,
+            "latitud": ... ,
+            "elevacion": ... ,
+            "name": ... ,
+            "parameters": {
+                "CO": {
+                    "12/03/2019 00:00": {
+                        "concentration": 12.6,
+                        "unit": "ppb",
+                        "AQI": 33
+                    },
+                    "12/03/2019 00:01": {...},
+                    "12/03/2019 00:02": {...},
+                    ...
+                }
+                "PM25": {...},
+                "O3": {...},
+                ...
+            }
+        },
+        "ACO": {...},
+        "BEN": {...},
+        ...
+    }
+}

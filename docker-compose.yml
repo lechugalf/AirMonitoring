@@ -1,0 +1,47 @@
+version: '3'
+services:
+  mqttserver:
+    image: eclipse-mosquitto
+    container_name: mqttserver
+    ports:
+      - '1883:1883'
+      - '9001:9001'
+    expose:
+      - '1883'
+    restart: always
+  mongodb:
+    image: mongo
+    container_name: mongodb
+    ports:
+      - '27017:27017'
+    expose:
+      - 27017
+    restart: always
+  verificador:
+    image: 'verificador:v1'
+    container_name: verificador
+    build:
+      context: ./verificador
+    depends_on:
+      - mqttserver
+      - mongodb
+    volumes:
+      - './verificador/app:/home/code'
+  sensornetwork:
+    image: 'sensornetwork:v1'
+    container_name: sensornetwork
+    build: ./sensornetwork
+    depends_on:
+      - mqttserver
+    volumes:
+      - './sensornetwork/app:/usr/src/app'
+  webapp:
+    image: 'webapp:dev'
+    container_name: webapp
+    build: ./webapp
+    depends_on:
+      - mongodb
+    ports:
+      - '5000:5000'
+    volumes:
+      - './webapp/app:/usr/src/app'

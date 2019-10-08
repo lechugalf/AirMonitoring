@@ -1,0 +1,39 @@
+{
+    "limites": {
+        "O3": {
+            "unidad": "ppb",
+            "min": -3,
+            "max": 500
+        },
+        "SO2": {
+            "unidad": "ppb",
+            "min": -3,
+            "max": 500
+        },
+        "NO2": {
+            "unidad": "ppb",
+            "min": -3,
+            "max": 500
+        },
+        "NO": {
+            "unidad": "ppb",
+            "min": -3,
+            "max": 500
+        },
+        "NOX": {
+            "unidad": "ppb",
+            "min": -6,
+            "max": 500
+        },
+        "CO": {
+            "unidad": "ppm",
+            "min": -0.4,
+            "max": 50
+        },
+        "PM10": {
+            "unidad": "micro g/m3",
+            "min": 0,
+            "max": 500
+        }
+    }
+}
