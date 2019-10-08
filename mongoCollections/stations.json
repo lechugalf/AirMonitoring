@@ -1,0 +1,553 @@
+[
+    {
+        "idStation": "ACO",
+        "nameStation": "Acolman",
+        "longitud": -98.912003,
+        "latitud": 19.635501,
+        "elevacion": 2198,
+        "operacion": true
+    },
+    {
+        "idStation": "AJU",
+        "nameStation": "Ajusco",
+        "longitud": -99.162611,
+        "latitud": 19.154286,
+        "elevacion": 2942,
+        "operacion": true
+    },
+    {
+        "idStation": "AJM",
+        "nameStation": "Ajusco Medio",
+        "longitud": -99.207744,
+        "latitud": 19.272161,
+        "elevacion": 2548,
+        "operacion": true
+    },
+    {
+        "idStation": "ARA",
+        "nameStation": "Aragón",
+        "longitud": -99.074549,
+        "latitud": 19.470218,
+        "elevacion": 2200,
+        "operacion": false
+    },
+    {
+        "idStation": "ATI",
+        "nameStation": "Atizapan",
+        "longitud": -99.254133,
+        "latitud": 19.576963,
+        "elevacion": 2341,
+        "operacion": true
+    },
+    {
+        "idStation": "AZC",
+        "nameStation": "Azcapotzalco",
+        "longitud": -99.198657,
+        "latitud": 19.487728,
+        "elevacion": 2279,
+        "operacion": false
+    },
+    {
+        "idStation": "BJU",
+        "nameStation": "Benito Juárez",
+        "longitud": -99.159596,
+        "latitud": 19.370464,
+        "elevacion": 2249,
+        "operacion": false
+    },
+    {
+        "idStation": "CAM",
+        "nameStation": "Camarones",
+        "longitud": -99.169794,
+        "latitud": 19.468404,
+        "elevacion": 2233,
+        "operacion": true
+    },
+    {
+        "idStation": "CCA",
+        "nameStation": "Centro de Ciencias de la Atmósfera",
+        "longitud": -99.176111,
+        "latitud": 19.326111,
+        "elevacion": 2294,
+        "operacion": true
+    },
+    {
+        "idStation": "CES",
+        "nameStation": "Cerro de la Estrella",
+        "longitud": -99.074678,
+        "latitud": 19.334731,
+        "elevacion": 2219,
+        "operacion": false
+    },
+    {
+        "idStation": "CFE",
+        "nameStation": "Museo Tecnológico de la CFE",
+        "longitud": -99.194279,
+        "latitud": 19.414393,
+        "elevacion": 2287,
+        "operacion": false
+    },
+    {
+        "idStation": "CHO",
+        "nameStation": "Chalco",
+        "longitud": -98.886088,
+        "latitud": 19.266948,
+        "elevacion": 2253,
+        "operacion": true
+    },
+    {
+        "idStation": "COR",
+        "nameStation": "CORENA",
+        "longitud": -99.02604,
+        "latitud": 19.265346,
+        "elevacion": 2242,
+        "operacion": true
+    },
+    {
+        "idStation": "COY",
+        "nameStation": "Coyoacán",
+        "longitud": -99.157101,
+        "latitud": 19.350258,
+        "elevacion": 2260,
+        "operacion": true
+    },
+    {
+        "idStation": "CUA",
+        "nameStation": "Cuajimalpa",
+        "longitud": -99.291705,
+        "latitud": 19.365313,
+        "elevacion": 2704,
+        "operacion": true
+    },
+    {
+        "idStation": "CUI",
+        "nameStation": "Cuitláhuac",
+        "longitud": -99.165849,
+        "latitud": 19.469859,
+        "elevacion": 2255,
+        "operacion": false
+    },
+    {
+        "idStation": "CUT",
+        "nameStation": "Cuautitlán",
+        "longitud": -99.198602,
+        "latitud": 19.722186,
+        "elevacion": 2263,
+        "operacion": true
+    },
+    {
+        "idStation": "DIC",
+        "nameStation": "Diconsa",
+        "longitud": -99.185774,
+        "latitud": 19.298819,
+        "elevacion": 2305,
+        "operacion": true
+    },
+    {
+        "idStation": "EAJ",
+        "nameStation": "Ecoguardas Ajusco",
+        "longitud": -99.203971,
+        "latitud": 19.271222,
+        "elevacion": 2584,
+        "operacion": true
+    },
+    {
+        "idStation": "EDL",
+        "nameStation": "Exconv. Desierto Leones",
+        "longitud": -99.310635,
+        "latitud": 19.313357,
+        "elevacion": 2980,
+        "operacion": true
+    },
+    {
+        "idStation": "FAC",
+        "nameStation": "FES Acatlán",
+        "longitud": -99.243524,
+        "latitud": 19.482473,
+        "elevacion": 2299,
+        "operacion": true
+    },
+    {
+        "idStation": "FAN",
+        "nameStation": "Felipe Ángeles",
+        "longitud": -99.17492,
+        "latitud": 19.299126,
+        "elevacion": 2279,
+        "operacion": false
+    },
+    {
+        "idStation": "GAM",
+        "nameStation": "Gustavo A. Madero",
+        "longitud": -99.094517,
+        "latitud": 19.4827,
+        "elevacion": 2227,
+        "operacion": true
+    },
+    {
+        "idStation": "HAN",
+        "nameStation": "Hangares",
+        "longitud": -99.083623,
+        "latitud": 19.420518,
+        "elevacion": 2235,
+        "operacion": false
+    },
+    {
+        "idStation": "HGM",
+        "nameStation": "Hospital General de México",
+        "longitud": -99.152207,
+        "latitud": 19.411617,
+        "elevacion": 2234,
+        "operacion": true
+    },
+    {
+        "idStation": "IBM",
+        "nameStation": "Legaria",
+        "longitud": -99.21536,
+        "latitud": 19.443319,
+        "elevacion": 2314,
+        "operacion": true
+    },
+    {
+        "idStation": "IMP",
+        "nameStation": "Inst. Mexicano del Petróleo",
+        "longitud": -99.147294,
+        "latitud": 19.487561,
+        "elevacion": 2250,
+        "operacion": false
+    },
+    {
+        "idStation": "INN",
+        "nameStation": "Investigaciones Nucleares",
+        "longitud": -99.38052,
+        "latitud": 19.291968,
+        "elevacion": 3082,
+        "operacion": true
+    },
+    {
+        "idStation": "IZT",
+        "nameStation": "Iztacalco",
+        "longitud": -99.117641,
+        "latitud": 19.384413,
+        "elevacion": 2238,
+        "operacion": true
+    },
+    {
+        "idStation": "LAA",
+        "nameStation": "Lab. de Analisis Ambiental",
+        "longitud": -99.147312,
+        "latitud": 19.483781,
+        "elevacion": 2255,
+        "operacion": true
+    },
+    {
+        "idStation": "LAG",
+        "nameStation": "Lagunilla",
+        "longitud": -99.135183,
+        "latitud": 19.44242,
+        "elevacion": 2223,
+        "operacion": false
+    },
+    {
+        "idStation": "LLA",
+        "nameStation": "Los Laureles",
+        "longitud": -99.039644,
+        "latitud": 19.578792,
+        "elevacion": 2230,
+        "operacion": true
+    },
+    {
+        "idStation": "LOM",
+        "nameStation": "Lomas",
+        "longitud": -99.242062,
+        "latitud": 19.403,
+        "elevacion": 2434,
+        "operacion": true
+    },
+    {
+        "idStation": "LPR",
+        "nameStation": "La Presa",
+        "longitud": -99.11772,
+        "latitud": 19.534727,
+        "elevacion": 2302,
+        "operacion": true
+    },
+    {
+        "idStation": "LVI",
+        "nameStation": "La Villa",
+        "longitud": -99.117749,
+        "latitud": 19.46789,
+        "elevacion": 2228,
+        "operacion": false
+    },
+    {
+        "idStation": "MCM",
+        "nameStation": "Museo de la Cd. de México",
+        "longitud": -99.131924,
+        "latitud": 19.429071,
+        "elevacion": 2237,
+        "operacion": true
+    },
+    {
+        "idStation": "MER",
+        "nameStation": "Merced",
+        "longitud": -99.119594,
+        "latitud": 19.42461,
+        "elevacion": 2245,
+        "operacion": true
+    },
+    {
+        "idStation": "MGH",
+        "nameStation": "Mguel Hidalgo",
+        "longitud": -99.20266,
+        "latitud": 19.40405,
+        "elevacion": 2327,
+        "operacion": true
+    },
+    {
+        "idStation": "MIN",
+        "nameStation": "Metro Insurgentes",
+        "longitud": -99.162885,
+        "latitud": 19.42144,
+        "elevacion": 2231,
+        "operacion": false
+    },
+    {
+        "idStation": "MON",
+        "nameStation": "Montecillo",
+        "longitud": -98.902853,
+        "latitud": 19.460415,
+        "elevacion": 2252,
+        "operacion": true
+    },
+    {
+        "idStation": "MPA",
+        "nameStation": "Milpa Alta",
+        "longitud": -98.990189,
+        "latitud": 19.1769,
+        "elevacion": 2594,
+        "operacion": true
+    },
+    {
+        "idStation": "NET",
+        "nameStation": "Netzahualcoyotl",
+        "longitud": -99.026119,
+        "latitud": 19.42115,
+        "elevacion": 2230,
+        "operacion": false
+    },
+    {
+        "idStation": "NEZ",
+        "nameStation": "Nezahualcóyotl",
+        "longitud": -99.028212,
+        "latitud": 19.393734,
+        "elevacion": 2235,
+        "operacion": true
+    },
+    {
+        "idStation": "PED",
+        "nameStation": "Pedregal",
+        "longitud": -99.204136,
+        "latitud": 19.325146,
+        "elevacion": 2326,
+        "operacion": true
+    },
+    {
+        "idStation": "PER",
+        "nameStation": "La Perla",
+        "longitud": -98.991858,
+        "latitud": 19.38286,
+        "elevacion": 2237,
+        "operacion": true
+    },
+    {
+        "idStation": "PLA",
+        "nameStation": "Plateros",
+        "longitud": -99.200109,
+        "latitud": 19.365869,
+        "elevacion": 2345,
+        "operacion": true
+    },
+    {
+        "idStation": "POT",
+        "nameStation": "Portales",
+        "longitud": -99.145766,
+        "latitud": 19.376494,
+        "elevacion": 2237,
+        "operacion": true
+    },
+    {
+        "idStation": "SAG",
+        "nameStation": "San Agustín",
+        "longitud": -99.030324,
+        "latitud": 19.532968,
+        "elevacion": 2241,
+        "operacion": true
+    },
+    {
+        "idStation": "SFE",
+        "nameStation": "Santa fe",
+        "longitud": -99.262865,
+        "latitud": 19.357357,
+        "elevacion": 2599,
+        "operacion": true
+    },
+    {
+        "idStation": "SHA",
+        "nameStation": "Secretaría de Hacienda",
+        "longitud": -99.207868,
+        "latitud": 19.446203,
+        "elevacion": 2272,
+        "operacion": true
+    },
+    {
+        "idStation": "SJA",
+        "nameStation": "San Juan Aragón",
+        "longitud": -99.086095,
+        "latitud": 19.452592,
+        "elevacion": 2258,
+        "operacion": true
+    },
+    {
+        "idStation": "SNT",
+        "nameStation": "San Nicolas Totolapan",
+        "longitud": -99.256462,
+        "latitud": 19.250385,
+        "elevacion": 2946,
+        "operacion": true
+    },
+    {
+        "idStation": "SUR",
+        "nameStation": "Santa Ursula",
+        "longitud": -99.149994,
+        "latitud": 19.31448,
+        "elevacion": 2279,
+        "operacion": true
+    },
+    {
+        "idStation": "TAC",
+        "nameStation": "Tacuba",
+        "longitud": -99.202455,
+        "latitud": 19.453907,
+        "elevacion": 2275,
+        "operacion": false
+    },
+    {
+        "idStation": "TAH",
+        "nameStation": "Tlahuac",
+        "longitud": -99.010564,
+        "latitud": 19.246459,
+        "elevacion": 2297,
+        "operacion": true
+    },
+    {
+        "idStation": "TAX",
+        "nameStation": "Taxqueña",
+        "longitud": -99.123204,
+        "latitud": 19.335689,
+        "elevacion": 2242,
+        "operacion": false
+    },
+    {
+        "idStation": "TEC",
+        "nameStation": "Cerro del Tepeyac",
+        "longitud": -99.114229,
+        "latitud": 19.487227,
+        "elevacion": 2265,
+        "operacion": true
+    },
+    {
+        "idStation": "TLA",
+        "nameStation": "Tlalnepantla",
+        "longitud": -99.204597,
+        "latitud": 19.529077,
+        "elevacion": 2311,
+        "operacion": true
+    },
+    {
+        "idStation": "TLI",
+        "nameStation": "Tultitlán",
+        "longitud": -99.177173,
+        "latitud": 19.602542,
+        "elevacion": 2313,
+        "operacion": true
+    },
+    {
+        "idStation": "TPN",
+        "nameStation": "Tlalpan",
+        "longitud": -99.184177,
+        "latitud": 19.257041,
+        "elevacion": 2522,
+        "operacion": true
+    },
+    {
+        "idStation": "UAX",
+        "nameStation": "UAM Xochimilco",
+        "longitud": -99.103629,
+        "latitud": 19.304441,
+        "elevacion": 2246,
+        "operacion": true
+    },
+    {
+        "idStation": "UIZ",
+        "nameStation": "UAM Iztapalapa",
+        "longitud": -99.07388,
+        "latitud": 19.360794,
+        "elevacion": 2221,
+        "operacion": true
+    },
+    {
+        "idStation": "UNM",
+        "nameStation": "Unidad Movil",
+        "longitud": -99.147137,
+        "latitud": 19.482238,
+        "operacion": true
+    },
+    {
+        "idStation": "VAL",
+        "nameStation": "Vallejo",
+        "longitud": -99.165702,
+        "latitud": 19.522437,
+        "elevacion": 2248,
+        "operacion": false
+    },
+    {
+        "idStation": "VIF",
+        "nameStation": "Villa de las Flores",
+        "longitud": -99.09659,
+        "latitud": 19.658223,
+        "elevacion": 2242,
+        "operacion": true
+    },
+    {
+        "idStation": "XAL",
+        "nameStation": "Xalostoc",
+        "longitud": -99.0824,
+        "latitud": 19.525995,
+        "elevacion": 2160,
+        "operacion": true
+    },
+    {
+        "idStation": "XCH",
+        "nameStation": "Xochimilco",
+        "longitud": -99.118252,
+        "latitud": 19.267066,
+        "elevacion": 2243,
+        "operacion": false
+    },
+    {
+        "idStation": "FAR",
+        "nameStation": "FES Aragón",
+        "longitud": -99.046176,
+        "latitud": 19.473692,
+        "elevacion": 2230,
+        "operacion": true
+    },
+    {
+        "idStation": "SAC",
+        "nameStation": "Santiago Acahualtepec",
+        "longitud": -99.009381,
+        "latitud": 19.34561,
+        "elevacion": 2293,
+        "operacion": true
+    }
+]

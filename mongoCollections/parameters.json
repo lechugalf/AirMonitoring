@@ -1,0 +1,192 @@
+[
+    {
+        "idParameter": "O3",
+        "nameParameter": "Ozono",
+        "unit": "ppb"
+    },
+    {
+        "idParameter": "NO2",
+        "nameParameter": "Dioxido de nitrogeno",
+        "unit": "ppb"
+    },
+    {
+        "idParameter": "NO",
+        "nameParameter": "Oxido nitrico",
+        "unit": "ppb"
+    },
+    {
+        "idParameter": "NOx",
+        "nameParameter": "Oxidos de nitrogeno",
+        "unit": "ppb"
+    },
+    {
+        "idParameter": "CO",
+        "nameParameter": "Monoxido de carbono",
+        "unit": "ppm"
+    },
+    {
+        "idParameter": "SO2",
+        "nameParameter": "Dioxido de azufre",
+        "unit": "ppb"
+    },
+    {
+        "idParameter": "PM10",
+        "nameParameter": "Particulas menores a 10 micrometros",
+        "unit": "ug/m3"
+    },
+    {
+        "idParameter": "PM2.5",
+        "nameParameter": "Particulas menores a 2.5 micrometros",
+        "unit": "ug/m3"
+    },
+    {
+        "idParameter": "PMCO",
+        "nameParameter": "Particulas coarse",
+        "unit": "ug/m3"
+    },
+    {
+        "idParameter": "BEN",
+        "nameParameter": "Benceno",
+        "unit": "ppb"
+    },
+    {
+        "idParameter": "TOL",
+        "nameParameter": "Tolueno",
+        "unit": "ppb"
+    },
+    {
+        "idParameter": "WSP",
+        "nameParameter": "Velocidad del viento",
+        "unit": "m/s"
+    },
+    {
+        "idParameter": "WDR",
+        "nameParameter": "Direccion del viento",
+        "unit": "°"
+    },
+    {
+        "idParameter": "TMP",
+        "nameParameter": "Temperatura ambiente",
+        "unit": "°C"
+    },
+    {
+        "idParameter": "RH",
+        "nameParameter": "Humedad relativa",
+        "unit": "%"
+    },
+    {
+        "idParameter": "UVA",
+        "nameParameter": "Radiacion UV-A",
+        "unit": "mW/cm2"
+    },
+    {
+        "idParameter": "UVB",
+        "nameParameter": "Radiacion UV-B",
+        "unit": "W/m2"
+    },
+    {
+        "idParameter": "GR",
+        "nameParameter": "Radiacion global",
+        "unit": "W/m2"
+    },
+    {
+        "idParameter": "PAR",
+        "nameParameter": "Radiacion FA",
+        "unit": "umol/m2/s"
+    },
+    {
+        "idParameter": "PA",
+        "nameParameter": "Presion Atmosferica",
+        "unit": "mmHg"
+    },
+    {
+        "idParameter": "pH",
+        "nameParameter": "Potencial de hidrogeno",
+        "unit": "pH"
+    },
+    {
+        "idParameter": "PP",
+        "nameParameter": "Precipitacion pluvial",
+        "unit": "mm"
+    },
+    {
+        "idParameter": "CE",
+        "nameParameter": "Conductividad electrica",
+        "unit": "uS/cm"
+    },
+    {
+        "idParameter": "SO4",
+        "nameParameter": "Sulfato",
+        "unit": "mg/m2"
+    },
+    {
+        "idParameter": "NO3",
+        "nameParameter": "Nitrato",
+        "unit": "mg/m2"
+    },
+    {
+        "idParameter": "Cl",
+        "nameParameter": "Cloruro",
+        "unit": "mg/m2"
+    },
+    {
+        "idParameter": "CO3",
+        "nameParameter": "Carbonato",
+        "unit": "mg/m2"
+    },
+    {
+        "idParameter": "H",
+        "nameParameter": "Hidrogeno",
+        "unit": "mg/m2"
+    },
+    {
+        "idParameter": "NH4",
+        "nameParameter": "Amonio",
+        "unit": "mg/m2"
+    },
+    {
+        "idParameter": "Ca",
+        "nameParameter": "Calcio",
+        "unit": "mg/m2"
+    },
+    {
+        "idParameter": "Mg",
+        "nameParameter": "Magnesio",
+        "unit": "mg/m2"
+    },
+    {
+        "idParameter": "Na",
+        "nameParameter": "Sodio",
+        "unit": "mg/m2"
+    },
+    {
+        "idParameter": "K",
+        "nameParameter": "Potasio",
+        "unit": "mg/m2"
+    },
+    {
+        "idParameter": "PST",
+        "nameParameter": "Particulas suspendidas totales",
+        "unit": "ug/m3"
+    },
+    {
+        "idParameter": "PbPST",
+        "nameParameter": "Plomo contenido en PST",
+        "unit": "ug/m3"
+    },
+    {
+        "idParameter": "PbPM",
+        "nameParameter": "Plomo contenido en PM10",
+        "unit": "ug/m3"
+    },
+    {
+        "idParameter": "ETB",
+        "nameParameter": "Etilbenceno",
+        "unit": "ppb"
+    },
+    {
+        "idParameter": "XIL",
+        "nameParameter": "Xilenos",
+        "unit": "ppb"
+    }
+]
